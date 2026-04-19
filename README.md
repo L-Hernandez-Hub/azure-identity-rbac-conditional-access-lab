@@ -1,5 +1,7 @@
 # Azure Identity + Access Control + Conditional Access Lab
 
+---
+
 ## Objective 
 Simulate secure access control in Azure by assigning least-privilege roles and enforcing Conditional Access (MFA) to protect cloud resources.
 
@@ -21,7 +23,7 @@ Created a resource group titled `RG-AccessLab` in Microsoft Azure to serve as th
 ---
 
 ### 2. Assigned RBAC Role at Resource Group Scope
-Assigned the Reader role to a test user at the resource group level using Azure RBAC. This enforced least-privilege access, allowing read-only visibility without modification rights.
+Assigned the `Reader` role to a test user at the resource group level using Azure RBAC. This enforced least-privilege access, allowing read-only visibility without modification rights.
 
 ![Screenshot 2](Screenshots/2-role-assignment.png)
 
