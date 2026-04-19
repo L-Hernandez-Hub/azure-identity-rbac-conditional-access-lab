@@ -37,7 +37,7 @@ Logged in as the test user, Karen and attempted to create a new resource group. 
 ### 4. Implemented and Verified Conditional Access Policy (MFA)
 Configured a Conditional Access policy requiring multi-factor authentication (MFA) for Azure access. Verified successful enforcement through Microsoft Entra sign-in logs, confirming the policy was applied during authentication.
 
-![Screenshot 4](Screenshots/4-conditional-access-on.png
+![Screenshot 4](Screenshots/4-conditional-access-on.png)
 
 ![Screenshot 5](Screenshots/5-conditional-access-success.png)
 
